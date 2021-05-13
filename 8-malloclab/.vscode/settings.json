@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "mm.h": "c",
+        "memlib.h": "c",
+        "array": "c",
+        "hash_map": "c",
+        "bitset": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "ranges": "c",
+        "utility": "c",
+        "stdio.h": "c"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cachelab.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "cstdio": "c",
+        "fstream": "c",
+        "sstream": "c"
+    }
+}

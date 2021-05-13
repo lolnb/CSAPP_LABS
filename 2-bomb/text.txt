@@ -1,0 +1,8 @@
+# 完毕之后输入值依次被存放到：（以%d的形式）
+# 0x7fffffffd5c0 1,因为返回后比较的数字就在这个位置，如果不为1则爆炸
+# 7fffffffd5c4 2
+# 7fffffffd5c8
+# 7fffffffd5cc
+# 7fffffffd5c8
+# 7fffffffd5d8
+# 此外：7fffffffd5c0里存放着：7fffffffd5d8， 7fffffffd5c8里存放着也是：7fffffffd5d8
